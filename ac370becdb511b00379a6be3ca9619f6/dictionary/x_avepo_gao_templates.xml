@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="df5fa830dbecef008b671d03399619fb" label="Templates" max_length="40" name="x_avepo_gao_templates" type="collection">
+        <element display="true" label="Template Name" mandatory="true" max_length="200" name="template_name" type="string"/>
+        <element label="Template Value" mandatory="true" max_length="200" name="template_value" type="string"/>
+        <index name="index">
+            <element name="template_name"/>
+        </index>
+    </element>
+</database>

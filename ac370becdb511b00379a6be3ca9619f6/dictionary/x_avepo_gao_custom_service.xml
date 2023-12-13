@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e81ef9ebdbc72300b723e536ca9619c4" extends="sc_request" label="Custom Service" max_length="40" name="x_avepo_gao_custom_service" type="collection">
+        <element label="metadata1" max_length="1000" name="metadata1" type="string"/>
+        <element label="Request Summary" mandatory="true" max_length="2000" name="request_summary" type="string"/>
+        <element label="Site Collection Title" max_length="200" name="site_collection_title" type="string"/>
+    </element>
+</database>

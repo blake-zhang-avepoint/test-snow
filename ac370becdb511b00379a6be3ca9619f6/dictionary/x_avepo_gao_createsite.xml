@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6d8657881b384450eee186ae6e4bcb3c" label="CreateSite" max_length="40" name="x_avepo_gao_createsite" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="ServiceType" max_length="40" name="servicetype" type="string"/>
+    </element>
+</database>

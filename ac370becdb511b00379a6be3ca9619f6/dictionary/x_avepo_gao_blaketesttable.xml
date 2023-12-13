@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="11f9eb5c1b5a70904602cbb5604bcb1c" extends="sc_request" label="BlakeTestTable" max_length="40" name="x_avepo_gao_blaketesttable" type="collection">
+        <element label="Blake Comments" max_length="1000" name="blake_comments" type="string"/>
+    </element>
+</database>
